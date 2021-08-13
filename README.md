@@ -4,7 +4,7 @@ My projects and notes of the course "Profesional de Python" at Platzi
 - **Introducción**
     - ¿Qué se necesita para este curso?
         - [Curso básico de Python](https://platzi.com/clases/python/)
-        - [Curso profesinal de Git y Github](https://platzi.com/clases/git-github/)
+        - [Curso profesional de Git y Github](https://platzi.com/clases/git-github/)
         - [Curso intermedio de Python](https://platzi.com/clases/python-intermedio/)
         - [Curso de POO](https://platzi.com/clases/oop/)
     - ¿Cómo funciona Python?
